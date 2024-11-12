@@ -1,7 +1,8 @@
 # Pygame101
 Beginner Help in creating your first game
 
-🚧 Pygame 101 Repository – Under Construction 🚧
+# 🚧 Pygame 101 Repository – Under Construction 🚧
+
 Hi there! 👋 This repository is currently a work in progress as I build out exciting new content and sample code to help you on your Pygame journey.
 
 What’s Coming:
